@@ -6,4 +6,6 @@ def quick_pyramid(n = 10):
         print("_"*i)
 quick_pyramid()
 print("END OF THE TEST")
+print("Rugal")
 
+ 
